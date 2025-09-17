@@ -2,11 +2,7 @@
 
 A repository to learn and practice Object-Oriented Programming concepts in Python.
 
-## Topics To Cover
+## Requirements & Setup
 
-- Classes and Objects
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Abstraction
-- ...
+- Python >= 3.10
+- `python3 -m pip install jupyter`

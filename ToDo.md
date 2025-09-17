@@ -1,7 +1,8 @@
-ToDo:
+## ToDo:
 - ~~Python OOP Beginners - YouTube video - https://youtu.be/JeznW_7DlB0~~
 - ~~Programming paradigm - Functional/Procedural/Object-oriented~~
-- *Object-Oriented Programming (OOP) in Python - https://realpython.com/python3-object-oriented-programming/*
+- ~~Object-Oriented Programming (OOP) in Python - https://realpython.com/python3-object-oriented-programming/~~
+- *Building **Library Management System** with Classes in Python*
 - Python Classes: The Power of Object-Oriented Programming - https://realpython.com/python-classes/
 - DuckTyping - Polymorphism - Abstract base classes (ABCs) ?
 - `objectA == objectB` => ? ; `objectA is objectB` => ?
@@ -19,3 +20,28 @@ ToDo:
 - Python's Instance, Class, and Static Methods Demystified - https://realpython.com/instance-class-and-static-methods-demystified/
 - Python's Magic Methods: Leverage Their Power in Your Classes - https://realpython.com/python-magic-methods/
 - Build a Python Directory Tree Generator for the Command Line - https://realpython.com/directory-tree-generator-python/#coding-the-high-level-directorytree-class
+
+---
+
+## Dump:
+- Class
+- Object or instance
+- attributes
+- methods
+- dunder methods
+- Class attributes
+- Instance attributes
+- Instance methods
+- Class methods
+- Static methods
+- inheritance
+- parent class
+- child class
+- Encapsulation
+- Inheritance
+- Abstraction
+- Polymorphism
+- Public & Non-Public Members
+- managed attributes
+- `__repr__()` method
+- protocols
