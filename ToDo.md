@@ -1,0 +1,21 @@
+ToDo:
+- ~~Python OOP Beginners - YouTube video - https://youtu.be/JeznW_7DlB0~~
+- ~~Programming paradigm - Functional/Procedural/Object-oriented~~
+- *Object-Oriented Programming (OOP) in Python - https://realpython.com/python3-object-oriented-programming/*
+- Python Classes: The Power of Object-Oriented Programming - https://realpython.com/python-classes/
+- DuckTyping - Polymorphism - Abstract base classes (ABCs) ?
+- `objectA == objectB` => ? ; `objectA is objectB` => ?
+- difference between `__new__()` and `__init__()` ?
+- Python Class Constructors: Control Your Object Instantiation - https://realpython.com/python-class-constructor
+- Python Error Handling - https://realpython.com/python-lbyl-vs-eafp/
+- Namespaces and Scope in Python - https://realpython.com/python-namespaces-scope/
+- How Do You Choose Python Function Names? - https://realpython.com/python-function-names/
+- Data Classes in Python 3.7+ - https://realpython.com/python-data-classes/
+- Build Enumerations of Constants With Python's Enum - https://realpython.com/python-enum/
+- Write Pythonic and Clean Code With namedtuple - https://realpython.com/python-namedtuple/
+- The Zen of Python: `import this`
+- Python Descriptors: An Introduction - https://realpython.com/python-descriptors/
+- Python's property(): Add Managed Attributes to Your Classes - https://realpython.com/python-property/
+- Python's Instance, Class, and Static Methods Demystified - https://realpython.com/instance-class-and-static-methods-demystified/
+- Python's Magic Methods: Leverage Their Power in Your Classes - https://realpython.com/python-magic-methods/
+- Build a Python Directory Tree Generator for the Command Line - https://realpython.com/directory-tree-generator-python/#coding-the-high-level-directorytree-class
